@@ -24,3 +24,4 @@ Using find(), filter(), map(), some(), and every() to solve different problems
 Using reduce() to solve different problems
 
 Using sort() to sort arrays in various ways
+![librar](https://user-images.githubusercontent.com/90927148/170608185-4aaefb34-09ad-42e8-a39a-c1bfe5c576ab.png)
